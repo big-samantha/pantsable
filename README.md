@@ -1,3 +1,4 @@
+<center><img src="https://raw.githubusercontent.com/pizzaops/pantsable/master/internal/resources/pantsable_logo.png" alt="pantsable logo"></center>
 # pantsable
 An Ansible-based tool for performing Puppet Agent migrations from one Puppet infrastructure to another.
 
